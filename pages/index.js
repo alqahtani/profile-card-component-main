@@ -53,8 +53,8 @@ export default function Home() {
         </div>
 
         <footer className="attribution mt-4">
-          Challenge by <a class="text-white underline" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-          Coded by <a class="text-white underline" href="https://twitter.com/alqa7tani">Ahmed AlQahtani</a>.
+          Challenge by <a className="text-white underline" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+          Coded by <a className="text-white underline" href="https://twitter.com/alqa7tani">Ahmed AlQahtani</a>.
         </footer>
       </div>
     </div>
