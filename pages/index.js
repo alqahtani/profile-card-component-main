@@ -6,8 +6,10 @@ export default function Home() {
       <img src="images/bg-pattern-top.svg" alt="bg pattern top" className="absolute -top-1/2 -left-1/3" />
       <img src="images/bg-pattern-bottom.svg" alt="bg pattern bottom" className="absolute -bottom-3/4  -right-1/4" />
       <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <meta charSet="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Frontend Mentor | Profile card component</title>
+        <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png" />
       </Head>
 
       <div className="flex-1 flex flex-col items-center justify-center z-10">
